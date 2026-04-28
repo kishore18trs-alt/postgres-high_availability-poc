@@ -1,0 +1,42 @@
+# ─── Node ───────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ─── Environment (has passwords) ────────────────
+.env
+.env.local
+.env.*.local
+
+# ─── Prisma ─────────────────────────────────────
+prisma/dev.db
+prisma/dev.db-journal
+
+# ─── Docker volumes / DB data ───────────────────
+docker/postgres-primary/data/
+docker/postgres-replica/data/
+
+# ─── Backups (binary, too large) ────────────────
+# backups/
+# *.backup
+# *.sql.gz
+# *.dump
+
+# ─── OS files ───────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE / Editor ───────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── Claude context (not needed in repo) ────────
+.claude/
+
+# ─── Logs ───────────────────────────────────────
+*.log
+logs/

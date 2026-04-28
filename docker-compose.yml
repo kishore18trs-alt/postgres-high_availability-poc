@@ -1,0 +1,81 @@
+
+
+services:
+  postgres-primary:
+    build:
+      context: ./docker/postgres-primary
+      dockerfile: Dockerfile
+    image: pg-primary-custom
+    container_name: pg-primary
+    restart: unless-stopped 
+    environment:
+      POSTGRES_USER: appuser
+      POSTGRES_PASSWORD: apppass
+      POSTGRES_DB: appdb
+      POSTGRES_INITDB_ARGS: "--auth-host=md5"
+    ports:
+      - "5432:5432"
+    volumes:
+      - primary_data:/var/lib/postgresql/data
+      - ./docker/postgres-replica/primary-init.sh:/docker-entrypoint-initdb.d/primary-init.sh
+    command: >
+      postgres
+      -c wal_level=replica
+      -c max_wal_senders=10
+      -c max_replication_slots=10
+      -c hot_standby=on
+      -c listen_addresses=*
+      -c password_encryption=md5
+      -c shared_preload_libraries=pg_stat_statements,pg_cron
+      -c cron.database_name=appdb
+    networks:
+      - pgnet
+
+  postgres-replica:
+    image: postgres:15
+    container_name: pg-replica
+    restart: unless-stopped
+    depends_on:
+      - postgres-primary
+    environment:
+      POSTGRES_USER: appuser
+      POSTGRES_PASSWORD: apppass
+      PGUSER: replicator
+      PGPASSWORD: replicapass
+    ports:
+      - "5433:5432"
+    volumes:
+      - replica_data:/var/lib/postgresql/data
+      - ./docker/postgres-replica/replica-init.sh:/replica-init.sh
+    entrypoint: /replica-init.sh
+    networks:
+      - pgnet
+
+  pgbouncer:
+    image: edoburu/pgbouncer:latest
+    container_name: pgbouncer
+    restart: unless-stopped
+    depends_on:
+      - postgres-primary
+    ports:
+      - "6432:5432"
+    environment:
+      DB_HOST: postgres-primary
+      DB_PORT: 5432
+      DB_USER: appuser
+      DB_PASSWORD: apppass
+      DB_NAME: appdb
+      POOL_MODE: transaction
+      MAX_CLIENT_CONN: 1000
+      DEFAULT_POOL_SIZE: 20
+      AUTH_TYPE: md5
+    networks:
+      - pgnet
+
+volumes:
+  primary_data:
+  replica_data:
+
+networks:
+  pgnet:
+    driver: bridge
