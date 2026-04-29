@@ -1,0 +1,1351 @@
+TIME: Wed, Apr 29, 2026 12:16:07 PM
+ count 
+-------
+ 10318
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:10 PM
+ count 
+-------
+ 10320
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:12 PM
+ count 
+-------
+ 10322
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:14 PM
+ count 
+-------
+ 10325
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:16 PM
+ count 
+-------
+ 10327
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:19 PM
+ count 
+-------
+ 10329
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:21 PM
+ count 
+-------
+ 10331
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:23 PM
+ count 
+-------
+ 10334
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:26 PM
+ count 
+-------
+ 10336
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:28 PM
+ count 
+-------
+ 10338
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:30 PM
+ count 
+-------
+ 10341
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:33 PM
+ count 
+-------
+ 10343
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:35 PM
+ count 
+-------
+ 10345
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:37 PM
+ count 
+-------
+ 10347
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:40 PM
+ count 
+-------
+ 10350
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:42 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:44 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:47 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:49 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:51 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:53 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:56 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:16:58 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:00 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:03 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:05 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:07 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:10 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:12 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:14 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:16 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:19 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:21 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:23 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:26 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:28 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:30 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:33 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:35 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:37 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:40 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:42 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:44 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:47 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:49 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:51 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:54 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:56 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:17:58 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:00 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:03 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:05 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:07 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:10 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:12 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:14 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:17 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:19 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:21 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:24 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:26 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:28 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:31 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:33 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:35 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:37 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:40 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:42 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:44 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:47 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:49 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:51 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:54 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:56 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:18:58 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:01 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:03 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:05 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:08 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:10 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:12 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:14 PM
+ count 
+-------
+ 10351
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:17 PM
+ count 
+-------
+ 10352
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:19 PM
+ count 
+-------
+ 10354
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:21 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:24 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:26 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:28 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:31 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:33 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:35 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:38 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:40 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:42 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:44 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:47 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:49 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:51 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:54 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:56 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:19:58 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:01 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:03 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:05 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:08 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:10 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:12 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:15 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:17 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:19 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:22 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:24 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:26 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:29 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:31 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:33 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:36 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:38 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:40 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:43 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:45 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:47 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:49 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:52 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:54 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:56 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:20:59 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:01 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:03 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:06 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:08 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:10 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:13 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:15 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:17 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:19 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:22 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:24 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:26 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:29 PM
+ count 
+-------
+ 10356
+(1 row)
+
+TIME: Wed, Apr 29, 2026 12:21:31 PM
+TIME: Wed, Apr 29, 2026  5:42:16 PM
+ count 
+-------
+ 10403
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:18 PM
+ count 
+-------
+ 10406
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:21 PM
+ count 
+-------
+ 10408
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:23 PM
+ count 
+-------
+ 10411
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:26 PM
+ count 
+-------
+ 10413
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:28 PM
+ count 
+-------
+ 10416
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:31 PM
+ count 
+-------
+ 10418
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:33 PM
+ count 
+-------
+ 10421
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:36 PM
+ count 
+-------
+ 10423
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:39 PM
+ count 
+-------
+ 10427
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:42 PM
+ count 
+-------
+ 10429
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:44 PM
+ count 
+-------
+ 10429
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:47 PM
+ count 
+-------
+ 10429
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:49 PM
+ count 
+-------
+ 10429
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:42:52 PM
+ count 
+-------
+ 10429
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:43:54 PM
+ count 
+-------
+ 10449
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:43:57 PM
+ count 
+-------
+ 10451
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:43:59 PM
+ count 
+-------
+ 10454
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:02 PM
+ count 
+-------
+ 10457
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:04 PM
+ count 
+-------
+ 10459
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:07 PM
+ count 
+-------
+ 10461
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:09 PM
+ count 
+-------
+ 10464
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:12 PM
+ count 
+-------
+ 10467
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:14 PM
+ count 
+-------
+ 10469
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:17 PM
+ count 
+-------
+ 10472
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:19 PM
+ count 
+-------
+ 10474
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:22 PM
+ count 
+-------
+ 10477
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:25 PM
+ count 
+-------
+ 10479
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:28 PM
+ count 
+-------
+ 10482
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:30 PM
+ count 
+-------
+ 10485
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:33 PM
+ count 
+-------
+ 10487
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:35 PM
+ count 
+-------
+ 10490
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:38 PM
+ count 
+-------
+ 10493
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:41 PM
+ count 
+-------
+ 10495
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:43 PM
+ count 
+-------
+ 10498
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:46 PM
+ count 
+-------
+ 10500
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:48 PM
+ count 
+-------
+ 10503
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:51 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:54 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:56 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:44:59 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:02 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:05 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:08 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:10 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:13 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:15 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:18 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:20 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:23 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:26 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:28 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:31 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:34 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:37 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:39 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:42 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:45 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:48 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:51 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:54 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:56 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:45:59 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:02 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:05 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:07 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:10 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:13 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:16 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:18 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:21 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:24 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:27 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:30 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:33 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:35 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:38 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:40 PM
+ count 
+-------
+ 10506
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:43 PM
+ count 
+-------
+ 10512
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:45 PM
+ count 
+-------
+ 10514
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:48 PM
+ count 
+-------
+ 10517
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:50 PM
+ count 
+-------
+ 10519
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:53 PM
+ count 
+-------
+ 10520
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:55 PM
+ count 
+-------
+ 10520
+(1 row)
+
+TIME: Wed, Apr 29, 2026  5:46:58 PM
+ count 
+-------
+ 10520
+(1 row)
+
